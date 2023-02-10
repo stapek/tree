@@ -1,7 +1,6 @@
 {
   "name": "stapek/tree",
   "description": "PHP数组转换成树形结构处理",
-  "type": "project",
   "keywords": [
     "Tree"
   ],
