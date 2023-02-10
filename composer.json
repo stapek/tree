@@ -1,0 +1,21 @@
+{
+    "name": "stapek/tree",
+    "description": "数组转换成树形结构处理",
+    "type": "project",
+    "require": {
+        "php": "8.0.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Stapek\\Tree\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chengf",
+            "email": "616129916@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
