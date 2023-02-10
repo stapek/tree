@@ -3,7 +3,7 @@
     "description": "数组转换成树形结构处理",
     "type": "project",
     "require": {
-        "php": "8.0.0"
+        "php": "8.0.15"
     },
     "license": "MIT",
     "autoload": {
